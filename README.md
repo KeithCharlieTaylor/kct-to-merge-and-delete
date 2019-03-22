@@ -17,7 +17,7 @@ To start with, I'm paracticing web page creation with this page and the pages I 
 - Google Custom Search Engine Code
 
 ## Keith Taylor's Recent GitHub Activity
-- Mar 22 2019 - Personal GitHub Pages started and linked to other GitHub Content.
+- Mar 22 2019 - Personal GitHub Pages started and linked to other GitHub Content. I started by creating a repository with the same name as my username. Because that is how I interpreted the instructions at [User, Organization, and Project Pages](https://help.github.com/en/articles/user-organization-and-project-pages). But I didn't spot that I'm required to give the full name, including *'.github.io'*. Anyway, I've decided to restart my GitHub personal website by forking the code at [Get started building your personal website](https://github.com/github/personal-website#get-started-building-your-personal-website)
 
 ## Keith Taylor's GitHub History
 - Mar 22 2018 - Joined GitHub
